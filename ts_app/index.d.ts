@@ -1,0 +1,19 @@
+// declare var Vue: (selector: string) => any;
+declare var chunk 
+declare var chunk 
+declare var chunk 
+declare var chunk 
+declare var chunk 
+declare var chunk 
+declare var chunk 
+declare var chunk 
+declare var chunk 
+declare var chunk 
+declare var chunk 
+declare var chunk 
+declare var chunk 
+declare var chunk 
+declare var chunk 
+declare var chunk 
+declare var chunk 
+declare var chunk 
