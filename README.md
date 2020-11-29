@@ -8,3 +8,7 @@
 
 ### 第三方库ts声明
     安装的时候用 cnpm i @types/需要安装的包的
+
+### 初始化
+    npm init     // 生成package.json
+    tsc --init    // 生成tsconfig.json
